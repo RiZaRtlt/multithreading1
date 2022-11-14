@@ -1,4 +1,4 @@
-public class Main extends Thread{
+public class Main extends Thread {
     public static void main(String[] args) throws InterruptedException {
         MyThread myThread = new MyThread();
 
